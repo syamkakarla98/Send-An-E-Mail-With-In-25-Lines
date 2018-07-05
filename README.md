@@ -19,3 +19,7 @@
      - Finally, enter the files names
       
 * Make sure that the ataching files should be in the **same directory** where the files have been saved.
+
+----------------------------------------------------------
+
+* Your mail will sent with in minutes.
