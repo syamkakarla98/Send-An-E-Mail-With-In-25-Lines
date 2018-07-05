@@ -6,7 +6,7 @@
 
 ### Steps for working with the code:
 
-* **Download** the _code_ [here](https://github.com/syamkakarla98/Send-An-E-Mail-With-In-25-Lines)
+* **Download** the _code_ [here](https://github.com/syamkakarla98/Send-An-E-Mail-With-In-25-Lines/releases/tag/V1.0.0)
 * Make sure that you have pre-installed **Python3.X** version.
 * Then click the file [Email_id_password.py](https://github.com/syamkakarla98/Send-An-E-Mail-With-In-25-Lines/blob/master/Email_id_password.py), Then enter your email address and password.
 * Then run the file [mail.py](https://github.com/syamkakarla98/Send-An-E-Mail-With-In-25-Lines/blob/master/main.py).
