@@ -1,6 +1,6 @@
 # [Send An E-Mail With In 25 Lines Using Python](https://github.com/syamkakarla98/Send-An-E-Mail-With-In-25-Lines)
 
-### These code will work if and only if, Make sure that the Allow less secure apps is ON. This can be achieved by going into your email settings an then goto sign&security.
+### These code will work if and only if, You need to make sure that the Allow less secure apps is ON. This can be achieved by going into your email settings an then goto sign&security.
 
 ------------------------------------------------------
 
